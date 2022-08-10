@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OGOO-Code-Review", "OGOO-Code-Review\OGOO-Code-Review.csproj", "{DAD83575-B543-4E64-A249-5649977B7588}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DAD83575-B543-4E64-A249-5649977B7588}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DAD83575-B543-4E64-A249-5649977B7588}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DAD83575-B543-4E64-A249-5649977B7588}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DAD83575-B543-4E64-A249-5649977B7588}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {694EBF39-51FA-4F56-BFCD-BF398DBD5E9C}
+	EndGlobalSection
+EndGlobal

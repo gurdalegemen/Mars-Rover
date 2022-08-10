@@ -1,0 +1,15 @@
+C:\Users\Egemen Gürdal\source\repos\OGOO-Code-Review\OGOO-Code-Review\bin\Debug\net6.0\OGOO-Code-Review.exe
+C:\Users\Egemen Gürdal\source\repos\OGOO-Code-Review\OGOO-Code-Review\bin\Debug\net6.0\OGOO-Code-Review.deps.json
+C:\Users\Egemen Gürdal\source\repos\OGOO-Code-Review\OGOO-Code-Review\bin\Debug\net6.0\OGOO-Code-Review.runtimeconfig.json
+C:\Users\Egemen Gürdal\source\repos\OGOO-Code-Review\OGOO-Code-Review\bin\Debug\net6.0\OGOO-Code-Review.dll
+C:\Users\Egemen Gürdal\source\repos\OGOO-Code-Review\OGOO-Code-Review\bin\Debug\net6.0\OGOO-Code-Review.pdb
+C:\Users\Egemen Gürdal\source\repos\OGOO-Code-Review\OGOO-Code-Review\obj\Debug\net6.0\OGOO-Code-Review.csproj.AssemblyReference.cache
+C:\Users\Egemen Gürdal\source\repos\OGOO-Code-Review\OGOO-Code-Review\obj\Debug\net6.0\OGOO-Code-Review.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Egemen Gürdal\source\repos\OGOO-Code-Review\OGOO-Code-Review\obj\Debug\net6.0\OGOO-Code-Review.AssemblyInfoInputs.cache
+C:\Users\Egemen Gürdal\source\repos\OGOO-Code-Review\OGOO-Code-Review\obj\Debug\net6.0\OGOO-Code-Review.AssemblyInfo.cs
+C:\Users\Egemen Gürdal\source\repos\OGOO-Code-Review\OGOO-Code-Review\obj\Debug\net6.0\OGOO-Code-Review.csproj.CoreCompileInputs.cache
+C:\Users\Egemen Gürdal\source\repos\OGOO-Code-Review\OGOO-Code-Review\obj\Debug\net6.0\OGOO-Code-Review.dll
+C:\Users\Egemen Gürdal\source\repos\OGOO-Code-Review\OGOO-Code-Review\obj\Debug\net6.0\refint\OGOO-Code-Review.dll
+C:\Users\Egemen Gürdal\source\repos\OGOO-Code-Review\OGOO-Code-Review\obj\Debug\net6.0\OGOO-Code-Review.pdb
+C:\Users\Egemen Gürdal\source\repos\OGOO-Code-Review\OGOO-Code-Review\obj\Debug\net6.0\OGOO-Code-Review.genruntimeconfig.cache
+C:\Users\Egemen Gürdal\source\repos\OGOO-Code-Review\OGOO-Code-Review\obj\Debug\net6.0\ref\OGOO-Code-Review.dll
